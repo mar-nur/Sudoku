@@ -1,5 +1,3 @@
-pandas
+linprog
 numpy
 matplotlib
-scikit-learn
-pyqt5
